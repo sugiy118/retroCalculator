@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0D6D7D3B1D05074000D30CE0 /* Minecraft 2.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0D6D7D3A1D05074000D30CE0 /* Minecraft 2.ttf */; };
+		0D6D7D3D1D05429000D30CE0 /* btn-2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 0D6D7D3C1D05429000D30CE0 /* btn-2.wav */; };
 		0DDA78B61D016045001A767D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DDA78B51D016045001A767D /* AppDelegate.swift */; };
 		0DDA78B81D016045001A767D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DDA78B71D016045001A767D /* ViewController.swift */; };
 		0DDA78BB1D016045001A767D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0DDA78B91D016045001A767D /* Main.storyboard */; };
@@ -15,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0D6D7D3A1D05074000D30CE0 /* Minecraft 2.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Minecraft 2.ttf"; sourceTree = "<group>"; };
+		0D6D7D3C1D05429000D30CE0 /* btn-2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "btn-2.wav"; sourceTree = "<group>"; };
 		0DDA78B21D016045001A767D /* Retro-Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Retro-Calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DDA78B51D016045001A767D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0DDA78B71D016045001A767D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,6 +58,8 @@
 		0DDA78B41D016045001A767D /* Retro-Calculator */ = {
 			isa = PBXGroup;
 			children = (
+				0D6D7D3A1D05074000D30CE0 /* Minecraft 2.ttf */,
+				0D6D7D3C1D05429000D30CE0 /* btn-2.wav */,
 				0DDA78B51D016045001A767D /* AppDelegate.swift */,
 				0DDA78B71D016045001A767D /* ViewController.swift */,
 				0DDA78B91D016045001A767D /* Main.storyboard */,
@@ -124,7 +130,9 @@
 			files = (
 				0DDA78C01D016045001A767D /* LaunchScreen.storyboard in Resources */,
 				0DDA78BD1D016045001A767D /* Assets.xcassets in Resources */,
+				0D6D7D3B1D05074000D30CE0 /* Minecraft 2.ttf in Resources */,
 				0DDA78BB1D016045001A767D /* Main.storyboard in Resources */,
+				0D6D7D3D1D05429000D30CE0 /* btn-2.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -286,6 +294,7 @@
 				0DDA78C61D016045001A767D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
